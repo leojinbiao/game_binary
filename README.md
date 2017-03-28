@@ -4,4 +4,4 @@ binary
 first_game
 
 
-Creating a new Branch is quick 
+Creating a new Branch is quick and simple
