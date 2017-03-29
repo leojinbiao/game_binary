@@ -9,4 +9,9 @@ Creating a new Branch is quicki & simple
 
 Creating a new Branch is quick and simple
 
-new commit 
+new commit
+
+git add vulcan.py 
+git status 
+
+create a new branch vulan
